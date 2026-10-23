@@ -6,4 +6,6 @@
 <br>
 
 ### I'm most confident at...
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,aws,docker&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,redis&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker&theme=light)](https://skillicons.dev)
